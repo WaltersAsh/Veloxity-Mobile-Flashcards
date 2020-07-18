@@ -1,13 +1,13 @@
 # Veloxity-Mobile-Flashcards
 2018 NCEA Level 3 Digital Technology Project
 
+A three-part project consisting of brief development, conceptual design and prototyping that I worked on during my last year of high school in 2018.
+Veloxity Mobile Flashcards was a mobile app concept that was brought forward as a solution to quickly revise notes for examinations in an easy an compact way.
+
 ![vmf banner](https://github.com/WaltersAsh/Veloxity-Mobile-Flashcards/blob/master/images/Zephyr.png)
 ![vmf storyboard layout](https://github.com/WaltersAsh/Veloxity-Mobile-Flashcards/blob/master/images/v5%20storyboard%20layout.png)
 
-
-## Outline
-A three-part project consisting of brief development, conceptual design and prototyping that I worked on during my last year of high school in 2018.
-Veloxity Mobile Flashcards was an app concept that was brought forward as a solution to revise notes for examinations.
+## Learning Objectives
 The goal of this project was to learn the methodology of agile development represented by the following completed achievement standards and objectives: 
 
 ### AS91608 - Undertake brief development to address an issue within a determined context
@@ -27,12 +27,17 @@ The goal of this project was to learn the methodology of agile development repre
 - Developed and justified prototype considering fitness for purpose in the broadest sense
 - Synthesised evidence from ongoing testing (included prototyping) and stakeholder feedback to optimise the prototype and justify the prototype’s fitness for purpose against the brief
 - Developed a prototype of a mobile application for students wanting to revise quickly for examinations
-- Showed the synthesis of ongoing testing, including prototyping and some of the stakeholder feedback, to optimise the prototype and justify its fitness for purpose against the     brief
+- Showed the synthesis of ongoing testing, including prototyping and some of the stakeholder feedback, to optimise the prototype and justify its fitness for purpose against the brief
 - Provided evidence of stakeholder feedback throughout the trialling of the prototype
 
 ## Creation Process
-Veloxity Mobile Flashcards aimed to be a modern app that was stylish, swift, and simple. A prototype was achieved by learning and researching user interfaces. Emphasis on graphic design was also required, Adobe Photoshop and XD were used to achieve this. 
+Veloxity Mobile Flashcards aimed to be a modern app that was stylish, swift, and simple. A prototype was achieved by learning and researching mobile user interfaces. Emphasis on graphic design was also required, Adobe Photoshop and XD were used to achieve this. 
 
 ![vmf demo gif](https://github.com/WaltersAsh/Veloxity-Mobile-Flashcards/blob/master/demos/UI%20v5%20test%20gif%2010%20secs.gif)
+![vmf opening](https://github.com/WaltersAsh/Veloxity-Mobile-Flashcards/blob/master/images/Opening%20Splash%20Final%20Transition.png)
+![ymf menu](https://github.com/WaltersAsh/Veloxity-Mobile-Flashcards/blob/master/images/Home.png)
+![vmf viewer](https://github.com/WaltersAsh/Veloxity-Mobile-Flashcards/blob/master/images/Flashcard%20Viewer%20Vertical.png)
+![vmf creator](https://github.com/WaltersAsh/Veloxity-Mobile-Flashcards/blob/master/images/Flashcard%20creator%20Vertical.png)
+![ymf library](https://github.com/WaltersAsh/Veloxity-Mobile-Flashcards/blob/master/images/Library%20Vertical.png)
 
 
